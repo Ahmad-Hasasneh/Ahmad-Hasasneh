@@ -14,7 +14,6 @@
 <a href="mailto:ahmad_hasasneh@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Ahmad-Hasasneh&style=for-the-badge&color=26639b" alt="Profile views"/>
 
 </div>
 
@@ -22,16 +21,15 @@
 
 ### About
 
-AI Engineer and **9XAI Fellow** at **Al Hussein Technical University**, building AI platforms for government clients at national scale.
+AI Engineer and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, building AI platforms for government clients at national scale.
 
 - Retrieval and question answering systems, built from the corpus up
 - Multi-agent LLM systems with planning, verification and guardrails
-- Bilingual **Arabic / English** products with full RTL support
 - Full stack delivery: data pipelines, databases, backend services, frontend
 
 Before this, a year as an **AI Prompt Engineer** training and evaluating large language models.
 
-**B.Sc. Artificial Intelligence & Robotics** — Al-Balqa Applied University · GPA 3.88/4.00 · First in class
+**B.Sc. Artificial Intelligence & Robotics** — Al-Balqa Applied University (BAU) · GPA 3.88/4.00 · First in class
 
 ---
 
