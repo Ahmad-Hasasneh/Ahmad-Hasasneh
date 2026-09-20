@@ -21,34 +21,26 @@
 
 ## About
 
-I build AI systems that reach real users, not demos.
+**AI Engineer** and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, building AI
+platforms for government clients at national scale.
 
-I'm an **AI Engineer** and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, working on
-AI platforms for government clients at national scale. Most of my work sits between the AI layer
-and the product: retrieval systems, multi-agent architectures and Arabic language models on one
-side, the services and interfaces people actually use on the other.
+My work sits between the AI layer and the product: retrieval systems, multi-agent architectures
+and Arabic language models on one side, the services and interfaces people actually use on the
+other. Before this, a year as an **AI Prompt Engineer** training and evaluating large language
+models — where I learned how these models fail, which is what I build on now.
 
-Before this I spent a year as an **AI Prompt Engineer**, training and evaluating large language
-models. That year is where I learned how these models fail, and it is what I build on now.
+<div align="center">
 
-<table>
-<tr>
-<td><b>Focus</b></td>
-<td>LLM applications · RAG &amp; retrieval · Multi-agent systems · Arabic NLP · Computer vision</td>
-</tr>
-<tr>
-<td><b>Engineering</b></td>
-<td>Full stack — data pipelines, databases, backend services, frontend</td>
-</tr>
-<tr>
-<td><b>Education</b></td>
-<td>B.Sc. Artificial Intelligence &amp; Robotics — Al-Balqa Applied University (BAU)<br/>GPA 3.88 / 4.00 · Graduated first in class</td>
-</tr>
-<tr>
-<td><b>Based in</b></td>
-<td>Amman, Jordan</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/LLM%20Applications-0f2d4a?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Retrieval-1a4470?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-26639b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Arabic%20NLP-3a7bbf?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5b9bd5?style=flat-square"/>
+
+</div>
+
+> **B.Sc. Artificial Intelligence & Robotics** — Al-Balqa Applied University (BAU)
+> GPA 3.88 / 4.00 · Graduated first in class · Based in Amman, Jordan
 
 <br/>
 
@@ -58,111 +50,107 @@ models. That year is where I learned how these models fail, and it is what I bui
 
 ## Projects
 
-*Click any project to expand*
+*Built at 9XAI — described at the level their agreements allow*
 
 </div>
 
-<details>
-<summary><b>&nbsp;Citizen Engagement Platform</b>&nbsp;&nbsp;<code>Government</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/RAG-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Arabic%20NLP-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<h3 align="center">Citizen Engagement Platform</h3>
+<p align="center"><code>Government</code></p>
+<p align="center"><img src="https://img.shields.io/badge/RAG-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Arabic%20NLP-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/></p>
 
-> Citizens report problems and ask questions through a web portal and messaging channels. The system
-> reads each submission, decides its subject and urgency, and routes it to the responsible entity.
+Citizens report problems through a web portal and messaging channels. The system reads each one, decides its subject and urgency, and routes it to the responsible entity.
 
-**What I built**
+<p align="center">
+<a href="https://github.com/Ahmad-Hasasneh/citizen-engagement-platform">
+<img src="https://img.shields.io/badge/View%20Project-0f2d4a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-| | |
-|---|---|
-| **Retrieval stack, end to end** | Corpus preparation, section-aware chunking, embeddings, a `pgvector` store, retrieval with a relevance gate |
-| **Grounded answering** | Streamed answers carrying a citation on every reply, in Arabic and English, escalating to complaint filing when it cannot answer |
-| **Classification & routing** | Arabic transformer classifier paired with an LLM arbiter to settle disagreements and auto-correct miscategorised submissions |
-| **Production** | OTP authentication, PII masking, staged deployments, an additional messaging channel at full parity |
+</td>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Ahmad-Hasasneh/citizen-engagement-platform"><b>Read more →</b></a>
+<h3 align="center">Legal Intelligence Platform</h3>
+<p align="center"><code>Government</code></p>
+<p align="center"><img src="https://img.shields.io/badge/Knowledge%20Graph-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square"/></p>
 
-</details>
+Search and question answering over national legislation, with conflict detection between a regulation and the laws around it, in force and upcoming.
 
-<details>
-<summary><b>&nbsp;Legal Intelligence Platform</b>&nbsp;&nbsp;<code>Government</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Knowledge%20Graph-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></summary>
+<p align="center">
+<a href="https://github.com/Ahmad-Hasasneh/legal-intelligence-platform">
+<img src="https://img.shields.io/badge/View%20Project-0f2d4a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> Search and question answering over national legislation, with conflict detection between a
-> regulation and the laws around it, both those in force and those still coming.
+<h3 align="center">Course Production Platform</h3>
+<p align="center"><code>Higher Education</code></p>
+<p align="center"><img src="https://img.shields.io/badge/Full%20Stack-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square"/></p>
 
-**What I built**
+Runs an online course from the moment it is approved through to publication, across many roles and gated review stages.
 
-| | |
-|---|---|
-| **Interface** | The platform's frontend and its wiring to the backend services |
-| **Legal assistant** | Answers legal questions in Arabic and English with a citation back to the source article |
-| **Retrieval quality** | Diagnosing wrong results and correcting the indexing and relationship linking behind them |
+<p align="center">
+<a href="https://github.com/Ahmad-Hasasneh/course-production-platform">
+<img src="https://img.shields.io/badge/View%20Project-0f2d4a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<a href="https://github.com/Ahmad-Hasasneh/legal-intelligence-platform"><b>Read more →</b></a>
+</td>
+<td width="50%" valign="top">
 
-</details>
+<h3 align="center">Crisis Simulation Engine</h3>
+<p align="center"><code>Research</code></p>
+<p align="center"><img src="https://img.shields.io/badge/Multi--Agent-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Guardrails-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/></p>
 
-<details>
-<summary><b>&nbsp;Course Production Platform</b>&nbsp;&nbsp;<code>Higher Education</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Full%20Stack-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/></summary>
+An LLM agent swarm where analyst, verifier, critique and commander work a scenario and check each other, with guardrails on every step.
 
-<br/>
+<p align="center">
+<a href="https://github.com/Ahmad-Hasasneh/crisis-simulation-engine">
+<img src="https://img.shields.io/badge/View%20Project-0f2d4a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-> Runs an online course from the moment a dean decides it should exist through to publication,
-> across many roles and gated review stages.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**What I built**
+<h3 align="center">Intelligent Traffic Light</h3>
+<p align="center"><code>Graduation Project</code></p>
+<p align="center"><img src="https://img.shields.io/badge/Computer%20Vision-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/></p>
 
-| | |
-|---|---|
-| **The entire frontend** | A screen for every role the pipeline needs, in Arabic and English with full right-to-left support |
-| **AI layer** | Drafts course content from the instructor's own material, scores publication readiness, reviews against an international quality rubric |
-| **Document editor** | Version history, comments anchored to the text, sanitisation, and sign-off wired into the pipeline so a studio booking cannot proceed without it |
-| **Multi-owner model** | Per-unit ownership and live-synced AI drafting, removing concurrent-write data loss by design rather than locking |
+Traffic lights that respond to real traffic. YOLOv8 and Deep SORT count what is waiting on each approach, so the busier direction gets more green time.
 
-<a href="https://github.com/Ahmad-Hasasneh/course-production-platform"><b>Read more →</b></a>
+<p align="center">
+<a href="https://github.com/Ahmad-Hasasneh/Graduation_Project_Demo">
+<img src="https://img.shields.io/badge/View%20Project-0f2d4a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>&nbsp;Crisis Simulation Engine</b>&nbsp;&nbsp;<code>Research</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Multi--Agent-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Guardrails-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></summary>
+<h3 align="center">More</h3>
+<p align="center"><code>Private</code></p>
 
-<br/>
+<p align="center">Most of my work sits in private repositories under NDA.<br/>Happy to walk through the engineering in conversation.</p>
 
-> An LLM agent swarm where an analyst, verifier, critique and commander work a scenario and check
-> each other, over a data layer built from real infrastructure and public sources.
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmad-hasasneh">
+<img src="https://img.shields.io/badge/Get%20in%20touch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-**What I built**
-
-| | |
-|---|---|
-| **Data foundation** | Layered data taxonomy, a quality scoring pipeline, and failure injectors for testing behaviour under bad input |
-| **Model client** | Provider-agnostic and async, with retries, exponential backoff, fallback and routing between reasoning and extraction models |
-| **Memory** | Persistent episodic memory, semantic search over past runs, dependency graph lookup for upstream and downstream effects |
-| **Safety** | Agent guardrails with pre- and post-execution validation, plus a supervision dashboard |
-
-<a href="https://github.com/Ahmad-Hasasneh/crisis-simulation-engine"><b>Read more →</b></a>
-
-</details>
-
-<details>
-<summary><b>&nbsp;Intelligent Traffic Light</b>&nbsp;&nbsp;<code>Graduation Project</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Computer%20Vision-26639b?style=flat-square"/> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></summary>
-
-<br/>
-
-> Traffic lights that respond to real traffic instead of a fixed cycle.
-
-**What I built**
-
-| | |
-|---|---|
-| **Detection & tracking** | YOLOv8 detection with Deep SORT tracking across frames, producing per-approach vehicle counts and stopped-vehicle detection |
-| **Adaptive timing** | Green time allocated to the busier direction rather than a fixed turn |
-| **2026 rebuild** | A live SUMO simulation of a real Amman intersection, driven by live traffic data, built for a 9XAI hackathon |
-
-<a href="https://github.com/Ahmad-Hasasneh/Graduation_Project_Demo"><b>Read more →</b></a>
-
-</details>
+</td>
+</tr>
+</table>
 
 <br/>
 
