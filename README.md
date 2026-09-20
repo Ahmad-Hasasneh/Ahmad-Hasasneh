@@ -33,28 +33,6 @@ Before this, a year as an **AI Prompt Engineer** training and evaluating large l
 
 ---
 
-### Selected Work at 9XAI
-
-These are under NDA, so described at a high level. Happy to go deeper in conversation.
-
-**Citizen engagement platform** · government client
-Citizens report issues and ask questions through a web portal and messaging channels. The system reads each one, decides its subject and urgency, and routes it to the responsible entity, with analytics on top for decision makers.
-*My part:* the citizen-facing assistant on a retrieval stack I built end to end — corpus preparation, chunking, embeddings, a pgvector store, relevance gating, and grounded answers carrying a citation every time — plus the classification layer pairing an Arabic transformer model with an LLM arbiter.
-
-**Legal intelligence platform** · government client
-Search and question answering over national legislation, with conflict detection between a regulation and the laws around it.
-*My part:* the interface and its wiring to the backend services, and the assistant that answers legal questions with a citation back to the source article.
-
-**Course production platform** · higher education
-Runs a course from the moment it is approved through to publication, across many roles and gated review stages.
-*My part:* the entire frontend, the AI layer that drafts content from an instructor's material and scores publication readiness, and a collaborative document editor with version history and comments anchored to the text.
-
-**Multi-agent crisis simulation** · research
-An LLM agent swarm — planner, verifier, critique and commander — working over a national data layer, with guardrails validating before and after each step.
-*My part:* the data and model foundation, persistent memory with causal graph lookup, and the guardrail system.
-
----
-
 ### Tech Stack
 
 <div align="center">
