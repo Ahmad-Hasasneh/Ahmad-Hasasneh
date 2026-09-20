@@ -19,8 +19,6 @@
 
 <br/>
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Ahmad-Hasasneh/Ahmad-Hasasneh/main/.github/ai.svg" onerror="this.style.display='none'"/>
-
 ### `>` whoami
 
 AI Engineer and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, building AI
