@@ -148,10 +148,6 @@ Traffic lights that respond to real traffic. YOLOv8 and Deep SORT count what is 
 <td align="right" valign="top" width="170"><b>Frontend</b><br/><sub><i>built with vibe coding</i></sub></td>
 <td valign="top"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=for-the-badge&logoColor=white" alt=""/></td>
 </tr>
-<tr>
-<td align="right" valign="top" width="170"><b>AI-Assisted Development</b><br/><sub><i>how I ship across the stack</i></sub></td>
-<td valign="top"><img src="https://img.shields.io/badge/Vibe%20Coding-0f2d4a?logo=sparkfun&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&style=for-the-badge&logoColor=white" alt=""/></td>
-</tr>
 </table>
 
 <div align="center">
