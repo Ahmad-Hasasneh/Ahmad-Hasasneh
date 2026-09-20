@@ -19,19 +19,36 @@
 
 <br/>
 
-### `>` whoami
+## About
 
-AI Engineer and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, building AI
-platforms for government clients at national scale.
+I build AI systems that reach real users, not demos.
 
-```yaml
-role:      AI Engineer · 9XAI Fellow
-focus:     [ LLM applications, RAG, multi-agent systems, Arabic NLP ]
-building:  government platforms at national scale
-education: B.Sc. AI & Robotics — BAU · GPA 3.88/4.00 · 1st in class
-before:    AI Prompt Engineer — training & evaluating LLMs
-location:  Amman, Jordan
-```
+I'm an **AI Engineer** and **9XAI Fellow** at **Al Hussein Technical University (HTU)**, working on
+AI platforms for government clients at national scale. Most of my work sits between the AI layer
+and the product: retrieval systems, multi-agent architectures and Arabic language models on one
+side, the services and interfaces people actually use on the other.
+
+Before this I spent a year as an **AI Prompt Engineer**, training and evaluating large language
+models. That year is where I learned how these models fail, and it is what I build on now.
+
+<table>
+<tr>
+<td><b>Focus</b></td>
+<td>LLM applications · RAG &amp; retrieval · Multi-agent systems · Arabic NLP · Computer vision</td>
+</tr>
+<tr>
+<td><b>Engineering</b></td>
+<td>Full stack — data pipelines, databases, backend services, frontend</td>
+</tr>
+<tr>
+<td><b>Education</b></td>
+<td>B.Sc. Artificial Intelligence &amp; Robotics — Al-Balqa Applied University (BAU)<br/>GPA 3.88 / 4.00 · Graduated first in class</td>
+</tr>
+<tr>
+<td><b>Based in</b></td>
+<td>Amman, Jordan</td>
+</tr>
+</table>
 
 <br/>
 
