@@ -132,44 +132,31 @@ Traffic lights that respond to real traffic. YOLOv8 and Deep SORT count what is 
 </div>
 
 <table>
-<tr><td align="right" width="150"><b>Languages</b></td><td>
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?logo=go?style=for-the-badge&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" width="150"><b>AI / ML</b></td><td>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas?style=for-the-badge&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" width="150"><b>Backend</b></td><td>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker?style=for-the-badge&logoColor=white"/>
-
-</td></tr>
-<tr><td align="right" width="150"><b>Frontend</b></td><td>
-
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma?style=for-the-badge&logoColor=white"/>
-
-</td></tr>
+<tr>
+<td align="right" valign="top" width="170"><b>Languages</b></td>
+<td valign="top"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=for-the-badge&logoColor=white" alt=""/></td>
+</tr>
+<tr>
+<td align="right" valign="top" width="170"><b>AI &amp; ML</b></td>
+<td valign="top"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white" alt=""/></td>
+</tr>
+<tr>
+<td align="right" valign="top" width="170"><b>Backend &amp; Data</b><br/><sub><i>built with vibe coding</i></sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt=""/></td>
+</tr>
+<tr>
+<td align="right" valign="top" width="170"><b>Frontend</b><br/><sub><i>built with vibe coding</i></sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&style=for-the-badge&logoColor=white" alt=""/></td>
+</tr>
+<tr>
+<td align="right" valign="top" width="170"><b>AI-Assisted Development</b><br/><sub><i>how I ship across the stack</i></sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/Vibe%20Coding-0f2d4a?logo=sparkfun&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&style=for-the-badge&logoColor=white" alt=""/> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&style=for-the-badge&logoColor=white" alt=""/></td>
+</tr>
 </table>
+
+<div align="center">
+<sub>I direct coding models the way I learned to direct language models, and review and test what they produce.</sub>
+</div>
 
 <br/>
 
